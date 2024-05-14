@@ -1,0 +1,23 @@
+[
+	{
+		"name": "App1",
+		"endpoints": [
+			"/subscriptions/xxxx-xxxx/.../vm1-nic",
+			"/subscriptions/xxxx-xxxx/.../vm2-nic"
+		]
+	},
+	{
+		"name": "App2",
+		"endpoints": [
+			"/subscriptions/xxxx-xxxx/.../vm3-nic",
+			"/subscriptions/xxxx-xxxx/.../vm4-nic"
+		]
+	},
+	{
+		"name": "App3",
+		"endpoints": [
+			"/subscriptions/xxxx-xxxx/.../vm5-nic",
+			"/subscriptions/xxxx-xxxx/.../vm6-nic"
+		]
+	}
+]
